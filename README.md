@@ -12,6 +12,14 @@ TODO: live streaming translations for video streams, and vtt for video/ audio cl
 
 
 **Endpoints **
+upload files
+send plain text
+link to live stream
+upload video
+upload audio file
+login
+logout
+rergister
 
 
 
