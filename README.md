@@ -3,11 +3,12 @@
 ```
 npm create astro@latest -- --template basics
 ```
-Basic overview
+**Basic overview**
+The docuswap solution proviodes a quick translation service powered by the AWS AAI language translation service. The software accespts basic documentaiont types and plain text.
 
-Functionality
+**Functionality**
 
-Endpoints 
+**Endpoints **
 
 
 
