@@ -1,12 +1,13 @@
 # Docuswap Solution
 
-```
-npm create astro@latest -- --template basics
-```
 **Basic overview**
 The docuswap solution proviodes a quick translation service powered by the AWS AAI language translation service. The software accespts basic documentaiont types and plain text.
 
 **Functionality**
+document trnaslation for word documents
+document translation for plain text
+
+TODO: streaming translation for live video and video/ audion clips
 
 **Endpoints **
 
