@@ -4,10 +4,12 @@
 The docuswap solution proviodes a quick translation service powered by the AWS AAI language translation service. The software accespts basic documentaiont types and plain text.
 
 **Functionality**
-document trnaslation for word documents
-document translation for plain text
 
-TODO: streaming translation for live video and video/ audion clips
+docuemtn translation 
+plain text translation
+
+TODO: live streaming translations for video streams, and vtt for video/ audio clips
+
 
 **Endpoints **
 
